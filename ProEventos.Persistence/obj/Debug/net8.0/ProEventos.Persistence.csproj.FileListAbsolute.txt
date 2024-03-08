@@ -1,0 +1,15 @@
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net8.0\ProEventos.Persistence.deps.json
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net8.0\ProEventos.Persistence.dll
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net8.0\ProEventos.Persistence.pdb
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ProEventos.Persistence.AssemblyInfo.cs
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ProEventos.Persistence.dll
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\refint\ProEventos.Persistence.dll
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ProEventos.Persistence.pdb
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ref\ProEventos.Persistence.dll
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net8.0\ProEventos.Domain.dll
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net8.0\ProEventos.Domain.pdb
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net8.0\ProEvent.EC3B9F6D.Up2Date

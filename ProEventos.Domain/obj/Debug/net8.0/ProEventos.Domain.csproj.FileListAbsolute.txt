@@ -1,0 +1,11 @@
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\bin\Debug\net8.0\ProEventos.Domain.deps.json
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\bin\Debug\net8.0\ProEventos.Domain.dll
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\bin\Debug\net8.0\ProEventos.Domain.pdb
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\obj\Debug\net8.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\obj\Debug\net8.0\ProEventos.Domain.AssemblyInfoInputs.cache
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\obj\Debug\net8.0\ProEventos.Domain.AssemblyInfo.cs
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\obj\Debug\net8.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\obj\Debug\net8.0\ProEventos.Domain.dll
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\obj\Debug\net8.0\refint\ProEventos.Domain.dll
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\obj\Debug\net8.0\ProEventos.Domain.pdb
+D:\DEV\Cursos Angular\ProEventos\back\src\ProEventos.Domain\obj\Debug\net8.0\ref\ProEventos.Domain.dll
